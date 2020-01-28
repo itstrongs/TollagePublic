@@ -1,0 +1,1 @@
+package com.itstrongs.holder;/** * 常量池 * @author itstrongs * */public class ConstantHolder {	public static final String URL_BASE = "http://192.168.1.103:8080/";//	public static final String URL_BASE = "http://192.168.10.166:8080/";}
